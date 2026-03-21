@@ -84,18 +84,17 @@ fun_fact: "I build message brokers for fun"
 
 <br/><br/>
 
-<!-- STREAK STATS -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=maquqdev&theme=tokyonight&hide_border=true&background=0d1117&ring=6C3483&fire=1ABC9C&currStreakLabel=1ABC9C&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=2980B9&dates=555555" width="700"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=maquqdev&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-readme-stats.vercel.app/api?username=maquqdev&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1ABC9C&icon_color=6C3483&text_color=c9d1d9)
 
 </div>
 
